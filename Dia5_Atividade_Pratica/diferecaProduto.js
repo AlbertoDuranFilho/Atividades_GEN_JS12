@@ -1,4 +1,4 @@
-let prompt = require('readline-sync');
+const prompt = require('readline-sync');
 
 let n1 = prompt.questionInt("Digite o primeiro valor: ");
 let n2 = prompt.questionInt("Digite o segundo valor: ");

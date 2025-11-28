@@ -1,4 +1,4 @@
-let prompt = require('readline-sync');
+const prompt = require('readline-sync');
 
 let salarioBruto = prompt.questionFloat("Digite seu salario bruto: ");
 let adcionalNoturno = prompt.questionFloat("Digite seu adicional noturno: ");

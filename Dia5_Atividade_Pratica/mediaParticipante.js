@@ -1,4 +1,4 @@
-let prompt = require('readline-sync');
+const prompt = require('readline-sync');
 
 let nota1 = prompt.questionFloat("Digite a primeira nota: ");
 let nota2 = prompt.questionFloat("Digite a segunda nota: ");
