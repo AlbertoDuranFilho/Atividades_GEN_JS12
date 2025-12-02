@@ -11,6 +11,8 @@ Cada atividade está em uma pasta própria, com seu respectivo código, materiai
 Clique em uma das atividades abaixo para ir direto para a pasta correspondente:
 
 - [Atividade Dia 5 – Variáveis e Operadores](./Dia5_Atividade_Pratica/)
+- [Atividade Dia 6 – If/Else e Switch/Case](./Dia6_Atividade_Pratica/)
+- [Atividade Dia 7 – Laços de repetições e Vetores/Matrizes](./Dia7_Atividade_Pratica/)
 
 ---
 
@@ -33,6 +35,9 @@ Ao longo das atividades, algumas das tecnologias e bibliotecas utilizadas serão
 ```bash
 .
 ├── Dia5_Atividade_Pratica/
+├── Dia6_Atividade_Pratica/
+├── Dia7_Atividade_Pratica/
+├── .gitignore
 └── README.md
 
 ```
