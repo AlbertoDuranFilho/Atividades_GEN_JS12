@@ -13,7 +13,7 @@ Clique em uma das atividades abaixo para ir direto para a pasta correspondente:
 - [Atividade Dia 5 – Variáveis e Operadores](./Dia5_Atividade_Pratica/)
 - [Atividade Dia 6 – If/Else e Switch/Case](./Dia6_Atividade_Pratica/)
 - [Atividade Dia 7 – Laços de repetições e Vetores/Matrizes](./Dia7_Atividade_Pratica/)
-- [Atividade Dia 7 – Collections Array e Collections Set](./Dia8_Atividade_Pratica/)
+- [Atividade Dia 8 – Collections Array e Collections Set](./Dia8_Atividade_Pratica/)
 
 ---
 
