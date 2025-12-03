@@ -5,5 +5,15 @@
   },
   "devDependencies": {
     "@types/readline-sync": "^1.4.8"
-  }
+  },
+  "name": "dia8_atividade_pratica",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
