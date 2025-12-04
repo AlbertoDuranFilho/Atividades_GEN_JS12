@@ -11,7 +11,7 @@ let opcao;
      console.log("1 - Adicionar Cliente na Fila")
      console.log("2 - Listar todos os Clientes")
      console.log("3 - Retirar Cliente da Fila")
-     console.log("0 - Adicionar Cliente na Fila")
+     console.log("0 - Sair")
      console.log("********************************************\n")
      opcao = prompt.questionInt("Digite a Opcao desejada: ")
 
