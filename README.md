@@ -14,6 +14,7 @@ Clique em uma das atividades abaixo para ir direto para a pasta correspondente:
 - [Atividade Dia 6 – If/Else e Switch/Case](./Dia6_Atividade_Pratica/)
 - [Atividade Dia 7 – Laços de repetições e Vetores/Matrizes](./Dia7_Atividade_Pratica/)
 - [Atividade Dia 8 – Collections Array e Collections Set](./Dia8_Atividade_Pratica/)
+- [Atividade Dia 9 – Queue e Stack](./Dia9_Atividade_Pratica/)
 
 ---
 
@@ -40,6 +41,7 @@ Ao longo das atividades, algumas das tecnologias e bibliotecas utilizadas serão
 ├── Dia6_Atividade_Pratica/
 ├── Dia7_Atividade_Pratica/
 ├── Dia8_Atividade_Pratica/
+├── Dia9_Atividade_Pratica/
 ├── .gitignore
 └── README.md
 
